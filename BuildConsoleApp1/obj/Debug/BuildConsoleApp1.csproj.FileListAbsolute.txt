@@ -1,0 +1,11 @@
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\bin\Debug\BuildConsoleApp1.exe.config
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\bin\Debug\BuildConsoleApp1.exe
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\bin\Debug\BuildConsoleApp1.pdb
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\obj\Debug\BuildConsoleApp1.csproj.AssemblyReference.cache
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\obj\Debug\BuildConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\obj\Debug\BuildConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\obj\Debug\BuildConsoleApp1.csproj.CopyComplete
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\obj\Debug\BuildConsoleApp1.exe
+D:\CIFramework\BuildConsoleApp1\BuildConsoleApp1\obj\Debug\BuildConsoleApp1.pdb
